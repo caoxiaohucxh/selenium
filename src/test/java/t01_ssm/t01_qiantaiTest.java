@@ -17,6 +17,9 @@ import java.util.concurrent.TimeUnit;
 
 import static org.junit.Assert.assertEquals;
 
+/**
+ *
+ */
 public class t01_qiantaiTest {
     private static SimpleDateFormat ymdhms = new SimpleDateFormat("yyyy-MM-dd--HH_mm_ss");
     //每次截图存放的文件夹名称相同
